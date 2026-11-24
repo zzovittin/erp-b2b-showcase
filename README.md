@@ -99,6 +99,57 @@ flowchart LR
     E --> F[Integration]
 ```
 
+---
+
+## Screenshots & Demonstration
+
+Capturas reais do sistema em execução no ambiente
+local de homologação.
+
+### Executive Dashboard
+
+Visão consolidada dos indicadores financeiros e
+da situação empresarial.
+
+<p align="center">
+  <img src="./screenshots/01-dashboard.png" width="100%" alt="Executive Dashboard"/>
+</p>
+
+### Financial Management
+
+Gestão de contas a receber e demonstrativos
+de resultados gerenciais.
+
+| Accounts Receivable | Income Statement |
+|---|---|
+| ![Contas a receber](./screenshots/03-contas-receber.png) | ![DRE](./screenshots/04-dre-gerencial.png) |
+
+### Commercial Management & CRM
+
+Gerenciamento de produtos, oportunidades comerciais
+e pedidos de venda.
+
+| Product Management | CRM Opportunities |
+|---|---|
+| ![Produtos](./screenshots/02-produtos.png) | ![CRM](./screenshots/05-oportunidades-crm.png) |
+
+<p align="center">
+  <img src="./screenshots/06-pedidos-venda.png" width="100%" alt="Sales Orders"/>
+</p>
+
+### Inventory & Human Resources
+
+Governança de estoque e gerenciamento de cargos.
+
+| Inventory Governance | Human Resources |
+|---|---|
+| ![Estoque](./screenshots/07-governanca-estoque.png) | ![RH](./screenshots/08-cargos-rh.png) |
+
+> Screenshots captured in a local development
+> and testing environment.
+
+---
+
 ## Project Status
 
 - Current stage: Active development
