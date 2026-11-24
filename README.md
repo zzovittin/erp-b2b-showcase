@@ -7,12 +7,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=orange&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=SOURCE&message=PRIVATE&color=dc2626&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=ARCHITECTURE&message=MULTI%20TENANT&color=2563eb&style=for-the-badge"/>
+  <img src="./erp-badges.svg" alt="ERP project status"/>
 </p>
-
-
 
 
 ---
